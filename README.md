@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ssergiomc
-- 👀 I’m interested in Data Analysis, Machine Learning plus coding about JS, Python, React, Express, Mongo DB and much more,
+- 👀 I’m interested in Data Analysis, Machine Learning and coding improvement. Open to almost any technology like JS, Python, React, Express, Mongo DB and much more!
 - 🌱 I’m currently learning JS, React, Express, Node.js Mongo DB and more!
 - 💞️ I’m looking to collaborate on any interesting project
 - 📫 How to reach me by, https://www.linkedin.com/in/sergio-martinez-cuesta/
