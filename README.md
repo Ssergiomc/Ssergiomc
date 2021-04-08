@@ -17,13 +17,13 @@
 ![Mongo DB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)
 
 ## Interests
-📍 Interest in Data Analysis, Machine Learning and coding improvement. 📊
+📍 Interest in Data Analysis, Machine Learning, coding improvement and for sure keep learning daily. 📊
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=Python&style=flat?logoColor=flat)
 ![Java](https://img.shields.io/badge/Language-Java-007396?logo=Java&style=flat)
 
 
-💻Open to almost any technology like JS, Python, React, Express, Mongo DB and much more!🖥
+💻Open to almost any technology like Javascript, Python, React, Angular, Express, Mongo DB or other DDBBs and much more!🖥
 
 ## How to find me
 
