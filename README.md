@@ -1,8 +1,34 @@
-- 👋 Hi, I’m @Ssergiomc
-- 👀 I’m interested in Data Analysis, Machine Learning and coding improvement. Open to almost any technology like JS, Python, React, Express, Mongo DB and much more!
-- 🌱 I’m currently learning JS, React, Express, Node.js Mongo DB and more!
-- 💞️ I’m looking to collaborate on any interesting project
-- 📫 How to reach me by, https://www.linkedin.com/in/sergio-martinez-cuesta/
+# 🖐 Hello, Sergio M.C. here
+### Fullstack Javascript Junior Developer
+
+## Skills
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=Chart.js&logoColor=white&labelColor=101010)
+
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)
+![Node.js](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=101010)
+![Mongo DB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)
+
+## Interests
+📍 Interest in Data Analysis, Machine Learning and coding improvement. 📊
+
+![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=Python&style=flat?logoColor=flat)
+![Java](https://img.shields.io/badge/Language-Java-007396?logo=Java&style=flat)
+
+
+💻Open to almost any technology like JS, Python, React, Express, Mongo DB and much more!🖥
+
+## How to find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio_MC_(SPANISH)-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sergio-martinez-cuesta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio_MC_(ENGLISH)-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sergio-martinez-cuesta/?locale=en_US)
 
 <!---
 Ssergiomc/Ssergiomc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
