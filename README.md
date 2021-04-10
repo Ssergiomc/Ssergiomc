@@ -21,7 +21,8 @@
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=Python&style=flat?logoColor=flat)
 ![Java](https://img.shields.io/badge/Language-Java-007396?logo=Java&style=flat)
-
+![PostgreSQL](https://img.shields.io/badge/DDBB-PostgreSQL-336791?logo=PostgreSQL&style=flat)
+![MySQL](https://img.shields.io/badge/DDBB-MySQL-4479A1?logo=MySQL&style=flat)
 
 💻Open to almost any technology like Javascript, Python, React, Angular, Express, Mongo DB or other DDBBs and much more!🖥
 
