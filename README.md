@@ -42,7 +42,16 @@
 
 ## Stats
 
-[![Sergio MC's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ssergiomc)](https://github.com/anuraghazra/github-readme-stats)
+[![Sergio MC's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ssergiomc&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssergiomc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
 
 <!---
 Ssergiomc/Ssergiomc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
