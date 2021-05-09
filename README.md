@@ -43,11 +43,11 @@
 ## 📊 Stats 📈
 
 [![Sergio MC's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ssergiomc&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssergiomc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssergiomc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 My trophies 🥇
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ssergiomc&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![My Trophies](https://github-profile-trophy.vercel.app/?username=Ssergiomc&theme=darkhub&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!---
