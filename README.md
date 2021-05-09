@@ -47,7 +47,7 @@
 
 ## 🏆 My trophies 🥇
 
-[![My Trophies](https://github-profile-trophy.vercel.app/?username=Ssergiomc&theme=darkhub&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![My Trophies](https://github-profile-trophy.vercel.app/?username=Ssergiomc&theme=darkhub&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!---
