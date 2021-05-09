@@ -40,17 +40,14 @@
 
 <a href="https://ssergiomc.github.io/" target="_blank" ><img src="https://img.shields.io/badge/Portfolio-Sergio_M.C._(ENGLISH)-001db5?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=181717" alt="portfolio tag"></a>
 
-## Stats
+## 📊 Stats 📈
 
 [![Sergio MC's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ssergiomc&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssergiomc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+## 🏆 My trophies 🥇
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ssergiomc&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!---
