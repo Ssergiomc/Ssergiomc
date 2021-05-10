@@ -51,10 +51,8 @@
 
 ### ✨ My visitors 🎢
 
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Ssergiomc&repo=github-visitors-badge&countColorcountColor&countColor=%0052CC)
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Ssergiomc&repo=Ssergiomc&countColorcountColor&countColor=%078bf0)
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Ssergiomc&repo=Ssergiomc&countColorcountColor&countColor=%23ff1493)
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
+
 <!---
 Ssergiomc/Ssergiomc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
