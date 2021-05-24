@@ -1,5 +1,5 @@
 # 🖐 Hello, Sergio M.C. here
-### Fullstack Javascript Junior Developer
+### Fullstack Javascript Junior Developer + Mechanical Engineer
 
 ## 🔷 Skills
 
@@ -24,6 +24,7 @@
 
 
 ## 🔷 Interests
+
 📍 Interest in Data Science, Machine Learning, coding improvement and for sure keep learning daily. 📚
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=Python&style=flat?logoColor=flat)
@@ -33,23 +34,25 @@
 
 💻Open to almost any technology like Javascript, Python, React, Angular, Express, Mongo DB or other DDBBs and much more!🖥
 
-## 🗺 How to find me 📮
+## 🔷 How to find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio_MC_(SPANISH)-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sergio-martinez-cuesta)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio_MC_(ENGLISH)-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sergio-martinez-cuesta/?locale=en_US)
 
 <a href="https://ssergiomc.github.io/" target="_blank" ><img src="https://img.shields.io/badge/Portfolio-Sergio_M.C._(ENGLISH)-001db5?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=181717" alt="portfolio tag"></a>
 
-## 📊 Stats 📈
+## 🔷 Stats
+
+### My Stats 📊
 
 [![Sergio MC's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ssergiomc&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssergiomc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🏆 My trophies 🥇
+### My trophies 🏆
 
 [![My Trophies](https://github-profile-trophy.vercel.app/?username=Ssergiomc&theme=darkhub&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-### ✨ My visitors 🎢
+### My visitors ✨
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Ssergiomc&repo=Ssergiomc&countColorcountColor&countColor=%23ff1493)
 
