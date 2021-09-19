@@ -29,7 +29,7 @@
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white&labelColor=101010)
 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white&labelColor=101010)
-![Jira Software](https://img.shields.io/badge/Jira&Software-0052CC?style=for-the-badge&logo=Jira&Sotfware&logoColor=white&labelColor=101010)
+![Jira Software](https://img.shields.io/badge/Jira_Software-0052CC?style=for-the-badge&logo=Jira&Sotfware&logoColor=white&labelColor=101010)
 
 ## 🔷 Interests
 
