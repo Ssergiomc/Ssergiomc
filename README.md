@@ -14,7 +14,7 @@
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=Chart.js&logoColor=white&labelColor=101010)
 
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=101010)
-![yarn]([https://img.shields.io/badge/YARN-1b83a8?logo=yarn&logoColor=1b83a8&labelColor=101010)
+![yarn]([https://img.shields.io/badge/yarn-1b83a8?logo=yarn&logoColor=1b83a8&labelColor=101010)
 
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=101010)
@@ -32,8 +32,11 @@
 ### First Steps
 
 ![Redux](https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux&logoColor=purple&labelColor=101010)
+
 ![Python](https://img.shields.io/badge/Language-Python-f2e144?style=flat&logo=Python&logoColor=f2e144&labelColor=3776AB)
+
 ![Django](https://img.shields.io/badge/Django-7a7d1e?logo=django&style=flat)
+
 ![MySQL](https://img.shields.io/badge/DDBB-MySQL-orange?style=flat&logo=MySQL&logoColor=orange&labelColor=3776AB&color=orange)
 
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=101010)
