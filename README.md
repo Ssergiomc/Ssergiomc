@@ -14,7 +14,7 @@
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=Chart.js&logoColor=white&labelColor=101010)
 
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=101010)
-![yarn]([https://img.shields.io/badge/yarn-1b83a8?logo=yarn&logoColor=1b83a8&labelColor=101010)
+![yarn](https://img.shields.io/badge/yarn-1b83a8?style=for-the-badge&logo=yarn&logoColor=1b83a8&labelColor=101010)
 
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=101010)
