@@ -71,6 +71,8 @@
 ### My visitors ✨
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Ssergiomc&repo=Ssergiomc&countColorcountColor&countColor=%23ff1493)
+![](https://komarev.com/ghpvc/?username=Ssergiomc&color=yellow&style=for-the-badge)
+
 
 <!---
 Ssergiomc/Ssergiomc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
