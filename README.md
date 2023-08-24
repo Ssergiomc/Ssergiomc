@@ -96,9 +96,9 @@
 ### My Stats 📊
 
 <p align="center"> 
-[![Sergio MC's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ssergiomc&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssergiomc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ssergiomc&" alt="ssergiomc" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ssergiomc&show_icons=true&theme=algolia" alt="Sergio MC's GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssergiomc&layout=compact" alt="My Top Langs" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ssergiomc&" alt="ssergiomc" />
 </p>
 
 ### My trophies 🏆
