@@ -51,7 +51,6 @@
 
 📍 Interest in Data Science, Machine Learning, coding improvement, clead code, testing and for sure keep learning daily. 📚
 
-![Java](https://img.shields.io/badge/Language-Java-007396?logo=Java&style=flat)
 ![MySQL](https://img.shields.io/badge/DDBB-MySQL-orange?style=flat&logo=MySQL&logoColor=orange&labelColor=3776AB&color=orange)
 
 💻Open to almost any technology like Javascript, Python, React, Angular, Express, Mongo DB or other DDBBs and much more!🖥
@@ -59,7 +58,9 @@
 ## 🔷 How to find me?
 
 <h3 align="left">Wanna connect with me?</h3>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio_MC_(SPANISH)-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sergio-martinez-cuesta)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio_MC_(ENGLISH)-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sergio-martinez-cuesta/?locale=en_US)
 
 <h3 align="left">My personal portfolio</h3>
