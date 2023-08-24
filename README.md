@@ -59,8 +59,8 @@
 
 <h3 align="left">Wanna connect with me?</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio_MC_(SPANISH)-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&label=Sergio_MC_(SPANISH)&labelColor=101010&color=0A66C2)](https://www.linkedin.com/in/sergio-martinez-cuesta)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio_MC_(SPANISH)-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&label=Sergio_MC_(ENGLISH)&labelColor=101010&color=0A66C2
+[![LinkedIn](https://img.shields.io/badge/Sergio_MC_(SPANISH)-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&label=Linkedin&labelColor=101010&color=0A66C2)](https://www.linkedin.com/in/sergio-martinez-cuesta)
+[![LinkedIn](https://img.shields.io/badge/Sergio_MC_(SPANISH)-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&label=Linkedin&labelColor=101010&color=0A66C2
 )](https://www.linkedin.com/in/sergio-martinez-cuesta/?locale=en_US)
 
 <h3 align="left">My personal portfolio</h3>
@@ -95,9 +95,11 @@
 
 ### My Stats 📊
 
+<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ssergiomc&show_icons=true&theme=algolia" alt="Sergio MC's GitHub stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssergiomc&layout=compact" alt="My Top Langs" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ssergiomc&" alt="ssergiomc" />
+</div>
 
 ### My trophies 🏆
 
