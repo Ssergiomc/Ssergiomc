@@ -42,9 +42,7 @@
 ![Redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=764ABC&labelColor=101010)
 
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=%233776AB&labelColor=101010&color=3776AB)
-
 ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=092E20&labelColor=101010&color=092E20)
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1&label=BBDD&labelColor=101010&color=4169E1)
 
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=430098&labelColor=101010&color=430098)
