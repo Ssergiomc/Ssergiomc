@@ -11,31 +11,31 @@
 
 ## 🔷 Skills
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=101010&color=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=101010)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=CC6699&labelColor=101010)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=101010)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=7952B3&labelColor=101010)
 
 ![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=101010)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white&labelColor=101010)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=Chart.js&logoColor=white&labelColor=101010)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=61DAFB&labelColor=101010)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=Chart.js&logoColor=FF6384&labelColor=101010)
 
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=101010)
-![yarn](https://img.shields.io/badge/yarn-1b83a8?style=for-the-badge&logo=yarn&logoColor=1b83a8&labelColor=101010)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=CB3837&labelColor=101010)
+![yarn](https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=2C8EBB&labelColor=101010)
 
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=101010)
-![Mongo DB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=339933&labelColor=101010)
+![Mongo DB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=101010)
 
 ### Version Control + Project Management
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white&labelColor=101010)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white&labelColor=101010)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=F05032&labelColor=101010)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=0052CC&labelColor=101010)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=101010)
 
-![Jira Software](https://img.shields.io/badge/Jira_Software-0052CC?style=for-the-badge&logo=Jira&Sotfware&logoColor=white&labelColor=101010)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white&labelColor=101010)
+![Jira Software](https://img.shields.io/badge/Jira_Software-0052CC?style=for-the-badge&logo=Jira&Sotfware&logoColor=0052CC&labelColor=101010)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=0052CC&labelColor=101010)
 
 ### First Steps
 
@@ -157,7 +157,6 @@
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
       <img src="https://skillicons.dev/icons?i=express" />
     </a>
-
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -204,7 +203,6 @@
         height="40"
       />
     </a>
-
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
