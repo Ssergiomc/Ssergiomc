@@ -88,16 +88,18 @@
   
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-</p>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+</p>
 
 ## 🔷 Stats
 
 ### My Stats 📊
 
+<p align="center"> 
 [![Sergio MC's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ssergiomc&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssergiomc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ssergiomc&" alt="ssergiomc" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ssergiomc&" alt="ssergiomc" />
+</p>
 
 ### My trophies 🏆
 
