@@ -57,11 +57,11 @@
 
 ## 🔷 How to find me?
 
-<h3 align="left">Wanna connect with me?</h3>
+<h3 align="left">Wanna connect with me?</h3>-
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio_MC_(SPANISH)-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sergio-martinez-cuesta)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio_MC_(ENGLISH)-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sergio-martinez-cuesta/?locale=en_US)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio_MC_(SPANISH)-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&label=Sergio_MC_(SPANISH)&labelColor=101010&color=0A66C2)](https://www.linkedin.com/in/sergio-martinez-cuesta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio_MC_(SPANISH)-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&label=Sergio_MC_(ENGLISH)&labelColor=101010&color=0A66C2
+)](https://www.linkedin.com/in/sergio-martinez-cuesta/?locale=en_US)
 
 <h3 align="left">My personal portfolio</h3>
 <a href="https://ssergiomc.github.io/" target="_blank" ><img src="https://img.shields.io/badge/Portfolio-Sergio_M.C._(ENGLISH)-001db5?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=181717" alt="portfolio tag"></a>
