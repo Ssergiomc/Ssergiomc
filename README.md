@@ -39,34 +39,30 @@
 
 ### First Steps
 
-![Redux](https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux&logoColor=purple&labelColor=101010)
+![Redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=764ABC&labelColor=101010)
 
-![Python](https://img.shields.io/badge/Language-Python-f2e144?style=flat&logo=Python&logoColor=f2e144&labelColor=3776AB)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=%233776AB&labelColor=101010&color=3776AB)
 
-![Django](https://img.shields.io/badge/Django-7a7d1e?logo=django&style=flat)
+![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=092E20&labelColor=101010&color=092E20)
 
-![MySQL](https://img.shields.io/badge/DDBB-MySQL-orange?style=flat&logo=MySQL&logoColor=orange&labelColor=3776AB&color=orange)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1&label=BBDD&labelColor=101010&color=4169E1)
 
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=101010)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=430098&labelColor=101010&color=430098)
 
 ## 🔷 Interests
 
 📍 Interest in Data Science, Machine Learning, coding improvement, clead code, testing and for sure keep learning daily. 📚
 
 ![Java](https://img.shields.io/badge/Language-Java-007396?logo=Java&style=flat)
-![PostgreSQL](https://img.shields.io/badge/DDBB-PostgreSQL-336791?logo=PostgreSQL&style=flat)
+![MySQL](https://img.shields.io/badge/DDBB-MySQL-orange?style=flat&logo=MySQL&logoColor=orange&labelColor=3776AB&color=orange)
 
 💻Open to almost any technology like Javascript, Python, React, Angular, Express, Mongo DB or other DDBBs and much more!🖥
 
-## 🔷 How to find me
+## 🔷 How to find me?
 
+<h3 align="left">Wanna connect with me?</h3>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio_MC_(SPANISH)-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sergio-martinez-cuesta)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio_MC_(ENGLISH)-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sergio-martinez-cuesta/?locale=en_US)
-
-<h3 align="left">Wanna connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sergio-martinez-cuesta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergio-martinez-cuesta" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">My personal portfolio</h3>
 <a href="https://ssergiomc.github.io/" target="_blank" ><img src="https://img.shields.io/badge/Portfolio-Sergio_M.C._(ENGLISH)-001db5?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=181717" alt="portfolio tag"></a>
@@ -77,18 +73,18 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
 </p>
