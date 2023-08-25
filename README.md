@@ -52,7 +52,12 @@
 
 📍 Interest in Data Science, Machine Learning, coding improvement, clead code, testing and for sure keep learning daily. 📚
 
-![MySQL](https://img.shields.io/badge/DDBB-MySQL-orange?style=flat&logo=MySQL&logoColor=orange&labelColor=3776AB&color=orange)
+<div align="center">
+
+  [![ReactiveX](https://img.shields.io/badge/ReactiveX-library?style=flat&logo=ReactiveX&logoColor=B7178C&label=LIBRARY&labelColor=101010&color=B7178C)](https://reactivex.io/)
+  ![MySQL](https://img.shields.io/badge/DDBB-MySQL-orange?style=flat&logo=MySQL&logoColor=orange&labelColor=101010&color=orange)
+  [![Godot](https://img.shields.io/badge/Godot%20Engine-gameengine?style=flat&logo=godotengine&logoColor=%23478CBF&label=GAME%20ENGINE&labelColor=101010&color=%23478CBF)](https://godotengine.org/)
+</div>
 
 💻Open to almost any technology like Javascript, Python, React, Angular, Express, Mongo DB or other DDBBs and much more!🖥
 
@@ -60,12 +65,17 @@
 
 <h3 align="left">Wanna connect with me?</h3>
 
-[![LinkedIn](https://img.shields.io/badge/Sergio_MC_(SPANISH)-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&label=Linkedin&labelColor=101010&color=0A66C2)](https://www.linkedin.com/in/sergio-martinez-cuesta)
-[![LinkedIn](https://img.shields.io/badge/Sergio_MC_(ENGLISH)-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&label=Linkedin&labelColor=101010&color=0A66C2
-)](https://www.linkedin.com/in/sergio-martinez-cuesta/?locale=en_US)
+<div align="center">
+
+  [![LinkedIn](https://img.shields.io/badge/Sergio_MC_(SPANISH)-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&label=Linkedin&labelColor=101010&color=0A66C2)](https://www.linkedin.com/in/sergio-martinez-cuesta)
+  [![LinkedIn](https://img.shields.io/badge/Sergio_MC_(ENGLISH)-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&label=Linkedin&labelColor=101010&color=0A66C2)](https://www.linkedin.com/in/sergio-martinez-cuesta/?locale=en_US)
+</div>
 
 <h3 align="left">My personal portfolio</h3>
-<a href="https://ssergiomc.github.io/" target="_blank" ><img src="https://img.shields.io/badge/Portfolio-Sergio_M.C._(ENGLISH)-001db5?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=181717" alt="portfolio tag"></a>
+
+<div align="center">
+  <a href="https://ssergiomc.github.io/" target="_blank" ><img src="https://img.shields.io/badge/Portfolio-Sergio_M.C._(ENGLISH)-001db5?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=181717" alt="portfolio tag"></a>
+</div>
 
 <h3 align="left">Languages and Tools Summary</h3>
 <div>
@@ -203,30 +213,32 @@
         height="40"
       />
     </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-        alt="python"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://cdn.worldvectorlogo.com/logos/django.svg"
-        alt="django"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-        alt="postgresql"
-        width="40"
-        height="40"
-      />
-    </a>
+    <div align="center">
+      <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+          alt="python"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+        <img
+          src="https://cdn.worldvectorlogo.com/logos/django.svg"
+          alt="django"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+          alt="postgresql"
+          width="40"
+          height="40"
+        />
+      </a>
+    </div>
   </div>
 </div>
 
