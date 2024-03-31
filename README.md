@@ -20,7 +20,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=61DAFB&labelColor=101010)
 
 ![Redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=764ABC&labelColor=101010)
-![Axios](https://img.shields.io/badge/redux-5A29E4?style=for-the-badge&logo=axios&logoColor=5A29E4&labelColor=101010)
+![Axios](https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=5A29E4&labelColor=101010)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=7952B3&labelColor=101010)
 ![MaterialUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=007FFF&labelColor=101010)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=Chart.js&logoColor=FF6384&labelColor=101010)
