@@ -15,10 +15,14 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=101010)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=CC6699&labelColor=101010)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=101010)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=7952B3&labelColor=101010)
 
 ![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=101010)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=61DAFB&labelColor=101010)
+
+![Redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=764ABC&labelColor=101010)
+![Axios](https://img.shields.io/badge/redux-5A29E4?style=for-the-badge&logo=axios&logoColor=5A29E4&labelColor=101010)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=7952B3&labelColor=101010)
+![MaterialUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=007FFF&labelColor=101010)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=Chart.js&logoColor=FF6384&labelColor=101010)
 
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=CB3837&labelColor=101010)
@@ -39,7 +43,7 @@
 
 ### First Steps
 
-![Redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=764ABC&labelColor=101010)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D&labelColor=101010)
 
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=%233776AB&labelColor=101010&color=3776AB)
 ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=092E20&labelColor=101010&color=092E20)
@@ -50,7 +54,7 @@
 
 ## 🔷 Interests
 
-📍 Interest in Data Science, Machine Learning, coding improvement, clead code, testing and for sure keep learning daily. 📚
+📍 Interest in Data Science, Machine Learning, coding improvement, clean code, testing and for sure keep learning daily. 📚
 
 <div align="center">
 
@@ -59,7 +63,7 @@
   [![Godot](https://img.shields.io/badge/Godot%20Engine-gameengine?style=flat&logo=godotengine&logoColor=%23478CBF&label=GAME%20ENGINE&labelColor=101010&color=%23478CBF)](https://godotengine.org/)
 </div>
 
-💻Open to almost any technology like Javascript, Python, React, Angular, Express, Mongo DB or other DDBBs and much more!🖥
+💻Open to any technology or languages like Javascript, Python, Angular or DDBBs and much more!🖥
 
 ## 🔷 How to find me?
 
@@ -74,7 +78,9 @@
 <h3 align="left">My personal portfolio</h3>
 
 <div align="center">
-  <a href="https://ssergiomc.github.io/" target="_blank" ><img src="https://img.shields.io/badge/Portfolio-Sergio_M.C._(ENGLISH)-001db5?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=181717" alt="portfolio tag"></a>
+  <a href="https://ssergiomc.github.io/" target="_blank" >
+    <img src="https://img.shields.io/badge/Portfolio-Sergio_M.C._(ENGLISH)-001db5?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=181717" alt="portfolio tag">
+  </a>
 </div>
 
 <h3 align="left">Languages and Tools Summary</h3>
@@ -145,9 +151,9 @@
     </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+        src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"
         alt="bootstrap"
-        width="40"
+        width="50"
         height="40"
       />
     </a>
