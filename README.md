@@ -30,6 +30,7 @@
 
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=339933&labelColor=101010)
+
 ![Mongo DB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=101010)
 
 ### Version Control + Project Management
@@ -47,15 +48,18 @@
 
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=%233776AB&labelColor=101010&color=3776AB)
 ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=092E20&labelColor=101010&color=092E20)
+
 ![SQlite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=003B57&label=BBDD&labelColor=101010&color=003B57)
+![MySQL](https://img.shields.io/badge/DDBB-MySQL-orange?style=for-the-badge&logo=MySQL&logoColor=orange&labelColor=101010&color=orange)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1&label=BBDD&labelColor=101010&color=4169E1)
+
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=430098&labelColor=101010&color=430098)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=00C7B7&labelColor=101010)
 
 ![GoogleSearchConsole](https://img.shields.io/badge/google_search_console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=458CF5&labelColor=101010)
 ![GoogleAnalytics](https://img.shields.io/badge/google_analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=E37400&labelColor=101010)
 ![Hotjar](https://img.shields.io/badge/hotjar-FF3C00?style=for-the-badge&logo=hotjar&logoColor=FF3C00&labelColor=101010)
 
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=430098&labelColor=101010&color=430098)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=00C7B7&labelColor=101010)
 
 ## 🔷 Interests
 
@@ -64,7 +68,6 @@
 <div align="center">
 
   [![ReactiveX](https://img.shields.io/badge/ReactiveX-library?style=flat&logo=ReactiveX&logoColor=B7178C&label=LIBRARY&labelColor=101010&color=B7178C)](https://reactivex.io/)
-  ![MySQL](https://img.shields.io/badge/DDBB-MySQL-orange?style=flat&logo=MySQL&logoColor=orange&labelColor=101010&color=orange)
   [![Godot](https://img.shields.io/badge/Godot%20Engine-gameengine?style=flat&logo=godotengine&logoColor=%23478CBF&label=GAME%20ENGINE&labelColor=101010&color=%23478CBF)](https://godotengine.org/)
 </div>
 
@@ -186,6 +189,8 @@
         height="40"
       />
     </a>
+  </div>
+  <div align="center">
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
@@ -208,6 +213,8 @@
     <a href="https://github.com/">
       <img src="https://skillicons.dev/icons?i=github" />
     </a>
+  </div>
+  <div align="center">
     <a href="https://heroku.com" target="_blank" rel="noreferrer">
       <img
         src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
@@ -224,6 +231,7 @@
         height="40"
       />
     </a>
+  </div>  
     <div align="center">
       <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img
@@ -250,7 +258,6 @@
         />
       </a>
     </div>
-  </div>
 </div>
 
 ## 🔷 Stats
