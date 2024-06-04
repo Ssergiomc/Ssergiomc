@@ -50,7 +50,12 @@
 ![SQlite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=003B57&label=BBDD&labelColor=101010&color=003B57)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1&label=BBDD&labelColor=101010&color=4169E1)
 
+![GoogleSearchConsole](https://img.shields.io/badge/google_search_console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=458CF5&labelColor=101010)
+![GoogleAnalytics](https://img.shields.io/badge/google_analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=E37400&labelColor=101010)
+![Hotjar](https://img.shields.io/badge/hotjar-FF3C00?style=for-the-badge&logo=hotjar&logoColor=FF3C00&labelColor=101010)
+
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=430098&labelColor=101010&color=430098)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=00C7B7&labelColor=101010)
 
 ## 🔷 Interests
 
